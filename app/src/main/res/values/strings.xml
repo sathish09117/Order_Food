@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Order_Food</string>
+    <string name="slogan">No matter where you are: whether your at home,or in the office,or on the beach-we will find you and we will feed you.</string>
+    <string name="btnSignIn">SignIn</string>
+    <string name="btnSignUp">SignUp</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+</resources>
